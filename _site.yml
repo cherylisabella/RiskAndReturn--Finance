@@ -1,0 +1,10 @@
+name: "Risk and Return"
+output_dir: "docs"
+output:
+    html_document:
+      theme: cosmo
+navbar:
+    title: "Risk and Return"
+    left:
+    - text: "U.S. Stocks vs. Cryptocurrencies"
+      href: index.html
