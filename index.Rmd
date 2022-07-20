@@ -4,14 +4,11 @@ subtitle: "RiskAndReturn--Finance"
 author: "Cheryl Isabella"
 output:
   html_document:
-    toc: yes
-    toc_float: yes
+    toc: true
+    toc_float: true
     toc_depth: 2
-    theme: paper
+    theme: cosmo
     df_print: paged
-  word_document:
-    toc: yes
-    toc_depth: '2'
 ---
 # **Overview**
 This project aims to evaluate the Risk and Return for U.S. stocks and cryptocurrencies. 
