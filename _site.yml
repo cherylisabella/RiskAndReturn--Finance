@@ -6,5 +6,6 @@ output:
 navbar:
     title: "Risk and Return"
     left:
+    
     - text: "U.S. Stocks vs. Cryptocurrencies"
       href: index.html
